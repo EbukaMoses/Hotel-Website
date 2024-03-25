@@ -1,5 +1,6 @@
 import React from 'react'
 import AllItem from '../../Destination/AllItem';
+import "../Popular/MostPopular.css"
 
 const DestinationHome = () => {
   return (
