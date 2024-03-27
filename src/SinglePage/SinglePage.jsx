@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import "./SinglePage.css";
 import HeadTitle from "../common/HeadTitle/HeadTitle";
-import AllItem from "../Components/Destination/AllItem";
 import Sdata from "../Components/Destination/Sdata";
 import EmptyFile from "../common/EmptyFile/EmptyFile";
 
